@@ -1,4 +1,4 @@
 Get the user data
 Lets get the data now
-
+ login logout
 create a new avatar for user
